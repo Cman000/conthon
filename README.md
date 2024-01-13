@@ -13,6 +13,8 @@ conda create -n Conthon python=3.7
 
 01. Monitor Interaction with a Tweet!
 
+-- Creating an Account;
+-- Your developer portal
 -- How to activate an Environment
 -- How to add packages
 
