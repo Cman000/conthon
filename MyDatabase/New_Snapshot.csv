@@ -1,5 +1,5 @@
 CUSTOMER_ID,CUSTOMER_TYPE,LOAN_STATUS,LOAN_DATE
-1,Existing,Delinquent,2024-01-01
+1,Existing,Inactive,2024-01-01
 3,Existing,Current,2024-01-01
 6,New,Not Due,2024-01-15
 7,New,Not Due,2024-01-15
